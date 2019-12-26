@@ -1,2 +1,0 @@
-# simpleSignIn
-Created with CodeSandbox
